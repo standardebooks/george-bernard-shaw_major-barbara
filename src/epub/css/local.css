@@ -2,6 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 
+i i{
+font-style: normal;
+}
+
 [epub|type~="z3998:dramatis-personae"]{
 	text-align: center;
 }
@@ -94,11 +98,11 @@ li > :first-child{
 	text-indent: 0;
 }
 
-.merge td{
+tr.together td {
 padding: 0 0 0 1em;
 vertical-align: middle;
 }
 
-.mergedialog {
-border-left: 1px solid black;
+tr.together td + td {
+border-left: 1px solid;
 }
