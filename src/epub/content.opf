@@ -43,7 +43,11 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Major Barbara&lt;/i&gt; three-act play by George Bernard Shaw that premiered at The Court Theatre in 1905 and was subsequently published in 1907. It portrays idealist Barbara Undershaft, a Major in the Salvation Army, and her encounter with her long-estranged father who has made his fortune as “dealer of death” in the munitions industry. Barbara does not wish to be associated with her father’s ill-gotten wealth but cannot prevent him from donating to the Salvation Army and eventually converting her family to his capitalist views on how best to help the poor.&lt;/p&gt;
+			&lt;p&gt;In the Preface written by Shaw, he explores his real attitudes towards the Salvation Army versus the attitudes and fates of his characters while discussing the issues of wealth and poverty, religion and science, and how it all fits into his views of his society and current philosophical thought.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Major Barbara&lt;/i&gt; is one of the most controversial of Shaw’s work and was received to decidedly mixed reviews, yet it endures as one of his most famous plays.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3790</dc:source>
@@ -56,22 +60,21 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_major-barbara</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
 		<meta property="file-as" refines="#author">Shaw, George Bernard</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Bernard_Shaw</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006533</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
+		<dc:contributor id="artist">E. Borough Johnson</dc:contributor>
+		<meta property="se:name.person.full-name" refines="#artist">Ernest Borough Johnson</meta>
+		<meta property="file-as" refines="#artist">Johnson, E. Borough</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Eve Sobol. HTML version by Al Haines.</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<dc:contributor id="transcriber-1">Eve Sobol</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Sobol, Eve</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
