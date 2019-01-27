@@ -61,40 +61,26 @@ i i{
 	font-variant: all-small-caps;
 }
 
-p[epub|type~="z3998:stage-direction"]{
-	text-align: center;
-	text-indent: 0;
-}
-
 section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
 
-#the-scenes-of-the-play{
-	text-align: center;
-}
-
-#the-scenes-of-the-play table{
-	margin: auto;
-	text-align: left;
-}
-
-li > :first-child{
-	text-indent: 0;
-}
-
-tr.together td {
+tr.together td{
 	padding: 0 .5em 0 .5em;
 }
 
-tr.together td + td {
+tr.together td + td{
 	border-left: 1px solid;
 	vertical-align: middle;
 }
 
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-right: .5em;
+}
+
+abbr.era{
+	font-variant: all-small-caps;
 }
 
 footer{
