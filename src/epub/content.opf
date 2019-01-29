@@ -53,7 +53,6 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3790</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001373869</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102213752</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Major_Barbara</meta>
@@ -91,6 +90,7 @@
 		<item href="text/act-1.xhtml" id="act-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/act-2.xhtml" id="act-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/authors-note.xhtml" id="authors-note.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -101,6 +101,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="authors-note.xhtml"/>
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
