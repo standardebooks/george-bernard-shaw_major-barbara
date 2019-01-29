@@ -45,7 +45,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Major Barbara&lt;/i&gt; three-act play by George Bernard Shaw that premiered at The Court Theatre in 1905 and was subsequently published in 1907. It portrays idealist Barbara Undershaft, a Major in the Salvation Army, and her encounter with her long-estranged father who has made his fortune as “dealer of death” in the munitions industry. Barbara does not wish to be associated with her father’s ill-gotten wealth but cannot prevent him from donating to the Salvation Army and eventually converting her family to his capitalist views on how best to help the poor.&lt;/p&gt;
-			&lt;p&gt;In the Preface written by Shaw, he explores his real attitudes towards the Salvation Army versus the attitudes and fates of his characters while discussing the issues of wealth and poverty, religion and science, and how it all fits into his views of his society and current philosophical thought.&lt;/p&gt;
+			&lt;p&gt;In the Preface, Shaw addresses the critics and explicates his actual attitudes towards the Salvation Army versus the attitudes and fates portrayed by his characters and responded to by the critics, while discussing the issues of wealth and poverty, religion and science, and how it all fits into his views of society.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Major Barbara&lt;/i&gt; is one of the most controversial of Shaw’s work and was received to decidedly mixed reviews, yet it endures as one of his most famous plays.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
