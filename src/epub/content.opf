@@ -44,8 +44,8 @@
 		<meta property="term" refines="#subject-4">sh2009122310</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh85037711</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The story of idealistic Barbara Undershaft, a Major in the Salvation Army, who does not want to be connected to her father’s “tainted” money.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Major Barbara&lt;/i&gt; is a three-act play that premiered at the Court Theatre in 1905, and was subsequently published in 1907. It portrays idealist Barbara Undershaft, a Major in the Salvation Army, and her encounter with her long-estranged father who has made his fortune as a “dealer of death” in the munitions industry. Barbara doesn’t wish to be associated with her father’s ill-gotten wealth, but can’t prevent him from donating to the Salvation Army and eventually converting her family to his capitalist views on how best to help the poor.&lt;/p&gt;
