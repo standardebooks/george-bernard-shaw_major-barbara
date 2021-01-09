@@ -115,3 +115,11 @@ footer{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+section[epub|type~="z3998:scene"]{
+	break-after: page;
+}
+
+section[epub|type~="z3998:scene"] + section[epub|type~="z3998:scene"]{
+	margin-top: 20vh;
+}
