@@ -88,7 +88,7 @@ section[epub|type~="preface"] h3{
 	margin: 2em 0 1em 0;
 }
 
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
